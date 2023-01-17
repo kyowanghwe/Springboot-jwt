@@ -1,5 +1,7 @@
 # What is JWT
   https://www.javainuse.com/spring/jwt
+### `JWT Structure`
+  https://jwt.io/introduction
 
 # Tutorial
   https://www.javainuse.com/spring/boot-jwt
